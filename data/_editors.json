@@ -2,22 +2,22 @@
     {
         "role": "owner",
         "name": "Gamerverse",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/channel/UCTFReKZYmBXKum7uvZoz_Fw"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Cucu",
+        "link": "https://youtube.com/user/Cucubot"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "no ones a list helper",
+        "link": "https://www.youtube.com"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "no one is a trial list member as well",
+        "link": "https://www.youtube.com/@"
     },
     {
         "role": "dev",
