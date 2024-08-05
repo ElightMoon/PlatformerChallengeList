@@ -1,1 +1,12 @@
-das
+{
+    "id": 100353881,
+    "name": "Smelvin Teahouse",
+    "author": "joeingly",
+    "creators": ["joeingly"],
+    "verifier": "joeingly",
+    "verification": "https://youtu.be/QosrAkmy0tk?si=uvekdArAiXCAB_5W",
+    "percentToQualify": "100",
+    "password": "its 2.2",
+    "records": [
+    ]
+}
