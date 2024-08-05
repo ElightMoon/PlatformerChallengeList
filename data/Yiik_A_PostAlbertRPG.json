@@ -1,0 +1,22 @@
+{
+    "id": 57436521,
+    "name": "Yiik A PostAlbertRPG",
+    "author": "joeingly",
+    "creators": ["joeingly"],
+    "verifier": "joeingly",
+    "verification": "https://youtu.be/Je4aJE50LjU?si=HdxsG_CR-8FzyUoM",
+    "percentToQualify": "100",
+    "password": "its 2.2",
+    "records": [
+        {
+            "user": "Adanz9",
+            "link": "https://www.youtube.com/watch?v=yl-yvpAz_EQ&feature=youtu.be",
+            "percent": "00:00:19.304"
+        },
+        {
+            "user": "Arouvis",
+            "link": "https://www.youtube.com/watch?v=oEN7x5_XT_I&feature=youtu.be",
+            "percent": "00:00:23.595"
+        }
+    ]
+}
