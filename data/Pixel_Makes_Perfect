@@ -1,1 +1,12 @@
-asd
+{
+    "id": ,
+    "name": "Pixel Makes Perfect",
+    "author": "sillybananaguy",
+    "creators": ["sillybananaguy","Cucu"],
+    "verifier": "sillybananaguy",
+    "verification": "https://youtu.be/InN7QhGun10?si=gbddXIjYEI1o0XIt",
+    "percentToQualify": "100",
+    "password": "its 2.2",
+    "records": [
+    ]
+}
