@@ -100,28 +100,28 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        You have achieved the record without using hacks. Checkpoint save/CBF is not allowed.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        The level you achieved the record on the level that is listed on the site - please check the level ID before you submit a record, however, LDMs of a level can count if it is accepted by list mods.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Your completion video must have either source audio or clicks/taps in the video, or at least in the raw footage. You may not be allowed to use edited audio in raw footages/completions without raw footage.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        The recording of your copmletion(at least in the raw footage) must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        The recording must also show the player hit the end of the level, and must show the end screens.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Do not use secret routes or bug routes whens submitting a challenge, as this is immediately disqualified.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Do not use easy modes or any other levels that may modify the level in a gameplay perspective, only a record of the unmodified level qualifies(unless there is a bug that makes the level impossible/new physics update, LDMs are allowed if the list mods allow it.)
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Once a level falls onto the Legacy List, we accept records for it for 12 hours after it falls off, then afterwards we never accept records for said level.
                     </p>
                 </div>
             </div>
