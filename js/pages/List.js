@@ -106,7 +106,7 @@ export default {
                         The level you achieved the record on the level that is listed on the site - please check the level ID before you submit a record, however, LDMs of a level can count if it is accepted by list mods.
                     </p>
                     <p>
-                        Your completion video must have either source audio or clicks/taps in the video, or at least in the raw footage. You may not be allowed to use edited audio in raw footages/completions without raw footage.
+                        Your completion video must have either source audio or clicks/taps in the videom if the level is higher than tower of coyote(this will be removed once tower of coyote is in legacy), or at least in the raw footage. You may not be allowed to use edited audio in raw footages/completions without raw footage.
                     </p>
                     <p>
                         The recording of your copmletion(at least in the raw footage) must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this.
