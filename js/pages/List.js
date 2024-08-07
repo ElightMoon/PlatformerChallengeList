@@ -112,13 +112,13 @@ export default {
                         The recording of your copmletion(at least in the raw footage) must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
                     </p>
                     <p>
-                        The recording must also show the player hit the end of the level, and must show the end screens.
+                        The recording must also show you hit the end of the level, and must show the end screens.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes whens submitting a challenge, as this is immediately disqualified.
+                        If you use a secret or bug route, your completion is disqualified unless the level requires you to use them.
                     </p>
                     <p>
-                        Do not use easy modes or any other levels that may modify the level in a gameplay perspective, only a record of the unmodified level qualifies(unless there is a bug that makes the level impossible/new physics update, LDMs are allowed if the list mods allow it.)
+                        Usage easy modes or any other levels that may modify the level in a gameplay perspective will not be tolerated, only a record of the unmodified level qualifies(unless there is a bug that makes the level impossible/new physics update, LDMs are allowed if the list mods allow it.)
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 12 hours after it falls off, then afterwards we never accept records for said level.
