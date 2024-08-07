@@ -77,7 +77,7 @@ export default {
                     </table>
                 </div>
                 <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
-                    <p>(ノಠ益ಠ)ノ彡┻━┻</p>
+                    <p>its not loaded yet, wait for wheatsucks to make the page</p>
                 </div>
             </div>
             <div class="meta-container">
@@ -118,7 +118,7 @@ export default {
                         If you use a secret or bug route, your completion is disqualified unless the level requires you to use them.
                     </p>
                     <p>
-                        Usage easy modes or any other levels that may modify the level in a gameplay perspective will not be tolerated, only a record of the unmodified level qualifies(unless there is a bug that makes the level impossible/new physics update)
+                        Usage of easy modes or any other levels that may modify the level that you are playing in a gameplay perspective will not be tolerated, only a record of the unmodified level qualifies(unless there is a bug that makes the level impossible/new physics update)
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 12 hours after it falls off, then afterwards we never accept records for said level.
